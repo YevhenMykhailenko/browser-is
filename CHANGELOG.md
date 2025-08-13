@@ -1,5 +1,9 @@
 # Browser Type Check - Release Notes
 
+## 1.0.3 (2025-08-12)
+
+- README.md fixes
+
 ## 1.0.2 (2025-08-12)
 
 - README.md fixes

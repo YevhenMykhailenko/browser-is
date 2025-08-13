@@ -4,7 +4,9 @@ A utility for detecting browser support.
 
 ## Installation
 
-npm install --browser-type-check
+```js
+npm install browser-type-check
+```
 
 ## Example
 
